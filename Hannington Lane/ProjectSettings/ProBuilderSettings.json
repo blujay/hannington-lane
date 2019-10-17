@@ -99,11 +99,7 @@
             {
                 "type": "UnityEngine.ProBuilder.SelectMode, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "editor.selectMode",
-<<<<<<< HEAD
-                "value": "{\"m_Value\":8}"
-=======
                 "value": "{\"m_Value\":1}"
->>>>>>> 9494fa3cecdc9d6eb4e6db5f8c4f4750f2dd07d2
             },
             {
                 "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
