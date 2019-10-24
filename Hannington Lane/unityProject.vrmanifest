@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.hanningtonlane.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\immer\\Documents\\GitHub\\hannington-lane\\Hannington Lane\\actions.json",
+      "action_manifest_path": "D:\\Documents\\Abbie\\hannington-lane\\hannington-lane\\Hannington Lane\\actions.json",
       "strings": {
         "en_us": {
           "name": "Hannington Lane [Testing]"
